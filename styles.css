@@ -1,3 +1,4 @@
+ <style type="text/css">
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600&display=swap');
 html{ margin: 0; padding: 0; position: relative;}
 body{ background: #121318; font-family: "Open Sans", sans-serif; font-size: 16px; line-height: 1.5; font-weight: 400; color: #fff; margin: 0px; padding: 0px; -webkit-text-size-adjust: none; position: relative;}
@@ -211,3 +212,5 @@ strong{ font-weight: 500;}
 .news-list-ul.is-column li{ width: 100%; margin: 0; margin-bottom: 2rem; display: flex; justify-content: space-between; background-color: transparent;}
 .news-list-ul.is-column li .thumb{ width: 100px; padding-bottom: 100px; margin-right: 1rem; flex-shrink: 0; align-self: flex-start;}
 .news-list-ul.is-column li .news-detail{ padding: 0; flex-grow: 1;}
+
+</style>
